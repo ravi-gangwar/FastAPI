@@ -1,0 +1,3 @@
+1- first create the virtual enviroment -> python3 -m venv ___path___
+2- active the enviroment -> ___path___/Scripts/active
+-------------------------------------------------------
